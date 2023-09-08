@@ -1,2 +1,2 @@
 # Portfolio_Projects
-This folder has contains various projects of Python pandas, SQL & Power BI that I worked on.
+This folder has contains various project of SQL,Python Pandas & Power BI that I worked on.
